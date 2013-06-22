@@ -1,9 +1,6 @@
 {"name":"acres","type":"FeatureCollection"
 ,"features":[
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.59449,42.6003400010001]},"properties": {
-        "name": "Coors Field",
-        "amenity": "Baseball Stadium",
-        "popupContent": "This is where the Rockies play!"}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.59449,42.6003400010001]},"properties":null}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.59449,42.60034]},"properties":null}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.87204,42.811920001]},"properties":null}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.87204,42.81192]},"properties":null}
