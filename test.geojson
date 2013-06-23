@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 var geojsonFeature = {
     "type": "Feature",
     "properties": {
@@ -12,9 +11,6 @@ var geojsonFeature = {
         "coordinates": [-104.99404, 39.75621]
     }
 };
-=======
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.59449,42.6003400010001]},"properties":null}]}
->>>>>>> 92722c3136fba906405a23dbff8c989acb6da23a
 =======
 {"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.59449,42.6003400010001]},"properties":null}]}
 >>>>>>> 92722c3136fba906405a23dbff8c989acb6da23a
