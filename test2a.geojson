@@ -1,1 +1,1 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.59449,42.600340]},"properties":{"prop0": "value0";"marker-size":"large"}}]}
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.59449,42.600340]},"properties":{"prop0": "value0"},{"marker-size":"large"}}]}
