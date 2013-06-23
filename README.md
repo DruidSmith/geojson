@@ -1,7 +1,7 @@
 # GeoJSON
 =======
 
-This is just a collection of tests and experiments dealing with GeoJSON, to include styling via MapBox symbol sets.
+This is just a collection of info, tests and experiments dealing with GeoJSON, to include styling via MapBox symbol sets.
 
 ## Useful Resources:
 
