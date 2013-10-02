@@ -1,0 +1,964 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "National Museum of Women In The Arts",
+        "Type": "Museum",
+        "Address": "1250 New York Ave NW",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20005,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.028946,
+          38.900151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "National Geographic Museum",
+        "Type": "Museum",
+        "Address": "1145 17th St NW",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20036,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "will be open and offering free admission tomorrow. In addition to free admission to the museum, guests are also invited to 'Tuesdays at Noon,' a free series of programming offered every Tuesday by National Geographic Live. Tomorrow they will be showing The Incredible Dr. Pol. The NG Farmer's Market will also be open tomorrow."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.037831,
+          38.905127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "West End Cinema",
+        "Type": "Cinema",
+        "Address": "2301 M St NW",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20037,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "We are offering half-price popcorn and sodas for federal employees (with a valid ID) during the #governmentshutdown."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.050478,
+          38.905574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "AFI Silver",
+        "Type": "Cinema",
+        "Address": "8633 Colesville Rd",
+        "City": "Silver Spring",
+        "State": "MD",
+        "ZIP": 20910,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "We are offering free popcorn to our moviegoers who are on furlough from their government jobs. Just be sure to have a valid government ID!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02739,
+          38.996682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "The Alexandria Symphony Orchestra",
+        "Type": "Music",
+        "Address": "2121 Eisenhower Avenue",
+        "City": "Alexandria",
+        "State": "VA",
+        "ZIP": 22314,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "is offering all furloughed federal workers two complimentary tickets to our Saturday, October 5 performance featuring Carlos Rodriguez, pianist. The performance will be held at 8:00pm in the Rachel M. Schlesinger Concert Hall and Arts Center, located at 3001 North Beauregard Street in Alexandria, VA. Free parking is provided. Additional tickets are available for $5 (18 and under), $10 (students with ID), and start at $20 for adults. To redeem, please present a valid ID at the Box Office on the night of the concert. Prior purchases excluded. Subject to availability. For more information, call 703-548-0885."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.066949,
+          38.801173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Theater J",
+        "Type": "Theater",
+        "Address": "1529 16th Street Northwest",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20036,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "We're offering buy one, get one free tickets to Wednesday and Thursday evening performances of After the Revolution for federal government employees! Tickets are available in-person, with valid government ID, beginning one hour before curtain."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.035753,
+          38.910855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Fibre Space",
+        "Type": "Craft",
+        "Address": "1219 King Street",
+        "City": "Alexandria",
+        "State": "VA",
+        "ZIP": 22302,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "Impacted by the shutdown? Find comfort in knitting. Come on out to fibre space from 1-5 p.m. any workday that the government is closed and learn to cast on and knit with one of our fab instructors. Basic materials are as low as $5 for needles and $10 for yarn, should you need them. The instruction is free and the community is priceless!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.053289,
+          38.806064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Polerized Fitness",
+        "Type": "Fitness",
+        "Address": "5609 South Quaker Lane",
+        "City": "Alexandria",
+        "State": "VA",
+        "ZIP": 22303,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "will offer one free class to furloughed government employees. Must show government id."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.087487,
+          38.798361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Lunar Massage",
+        "Type": "Massage",
+        "Address": "1101 5th St NW",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20001,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "is offering $1/min massage at all 3 studios for furloughed workers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.018715,
+          38.904318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Lunar Massage",
+        "Type": "Massage",
+        "Address": "1515 17th Street Northwest",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20036,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "is offering $1/min massage at all 3 studios for furloughed workers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.038241,
+          38.91022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Lunar Massage",
+        "Type": "Massage",
+        "Address": "1768 Columbia Road Northwest",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20001,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "is offering $1/min massage at all 3 studios for furloughed workers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.041087,
+          38.923526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Nusta Spa",
+        "Type": "Spa",
+        "Address": "1129 20th Street Northwest",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20036,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "is offering 30% off all services to anyone who shows a federal ID from now until the government reopens."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04461,
+          38.904576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Dance Institute of Washington",
+        "Type": "Dance",
+        "Address": "3400 14th Street Northwest",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20010,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "will be offering all government employees a 2 for 1 special for our dance classes. We have Modern, Hip Hop, Ballet, Brazil Cardio Dance, and Zumba throughout the week and we think opening up our doors to government employees with a special would be great! Hopefully you will be able to help us spread the word and let all of those who have been furloughed know that they have some place to go and have a good time!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.032923,
+          38.931593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "The Daily Rider",
+        "Type": "Bike Shop",
+        "Address": "1108 H Street Northeast",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20002,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "15% off all accessories until the shutdown ends, 10% off selected bikes!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.991064,
+          38.900345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Urbana",
+        "Type": "Restaurant",
+        "Address": "2121 P Street Northwest",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20037,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "will extend its happy hour by one hour for every day the government shuts down this week, until it reaches the point where happy hour is available all night. Urbana’s happy hour normally runs from 4-7 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.047061,
+          38.909911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Astro Doughnuts & Fried Chicken",
+        "Type": "Restaurant",
+        "Address": "1308 G Street Northwest",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20004,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "will offer one free doughnut with any doughnut or chicken purchase to any federal or District government employee if the shutdown goes into effect. The offer is limited to one per person and employees must show ID to redeem."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03042,
+          38.89821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Sticky Rice",
+        "Type": "Restaurant",
+        "Address": "1224 H Street Northeast",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20002,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "If the government shuts down at Midnight 1/2 price Sticky Rice rolls out Super Sushi Heaven with 1/2 price American Beers! Go Team!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.989302,
+          38.900418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Kangaroo Boxing Club",
+        "Type": "Restaurant",
+        "Address": "3410 11th Street Northwest",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20010,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "Because if the government is screwing you, you might as well come get some $3 screwdrivers. First one is free with your federal I.D. Noon to 5 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.028529,
+          38.932148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Meridian Pint",
+        "Type": "Restaurant",
+        "Address": "3400 11th Street Northwest",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20010,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "Local ales for budget ails! If the Federal Government shuts down tomorrow, we will open at 12 for LUNCH! 3 different local beers will be available for $5. It is also the first day of our Guest Beer Director Birthday Series."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.028467,
+          38.932054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Z Burger",
+        "Type": "Restaurant",
+        "Address": "Tivoli Square Building 3301 14th Street Northwest",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20010,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "If the government shuts down, burgers will be free for every furloughed worked from 11 a.m. to 1 p.m. and 5 p.m. to 7 p.m. One per person with an I.D."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.032358,
+          38.930629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Z Burger",
+        "Type": "Restaurant",
+        "Address": "4321 Wisconsin Avenue Northwest",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20016,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "If the government shuts down, burgers will be free for every furloughed worked from 11 a.m. to 1 p.m. and 5 p.m. to 7 p.m. One per person with an I.D."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.078099,
+          38.945671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Z Burger",
+        "Type": "Restaurant",
+        "Address": "2414 Wisconsin Avenue Northwest",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20007,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "If the government shuts down, burgers will be free for every furloughed worked from 11 a.m. to 1 p.m. and 5 p.m. to 7 p.m. One per person with an I.D."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.072491,
+          38.921494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Z Burger",
+        "Type": "Restaurant",
+        "Address": "1101 4th Street Southwest #170",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20024,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "If the government shuts down, burgers will be free for every furloughed worked from 11 a.m. to 1 p.m. and 5 p.m. to 7 p.m. One per person with an I.D."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.018174,
+          38.877403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Z Burger",
+        "Type": "Restaurant",
+        "Address": "3325 Wilson Boulevard",
+        "City": "Arlington",
+        "State": "VA",
+        "ZIP": 22201,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "If the government shuts down, burgers will be free for every furloughed worked from 11 a.m. to 1 p.m. and 5 p.m. to 7 p.m. One per person with an I.D."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.099809,
+          38.883596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Graffiato",
+        "Type": "Restaurant",
+        "Address": "707 6th Street Northwest",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20001,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "We'll be offering Happy Hour specials today from 4-7pm, including $2 bites, and $3, $4, and $5 drink specials!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.019623,
+          38.898707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Pork Barrel BBQ",
+        "Type": "Restaurant",
+        "Address": "2312 Mount Vernon Avenue",
+        "City": "Alexandria",
+        "State": "VA",
+        "ZIP": 22301,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "Free pulled pork sandwich for any gov employee if there is a shutdown. 1 per day, must have gov ID & EXCLUDES CONGRESSMEN."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.058932,
+          38.82663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Sophie's Cuban D.C.",
+        "Type": "Restaurant",
+        "Address": "1134 19th Street Northwest",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20036,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "In light of our grand opening and a potential government shutdown, we will also be offering three empanadas with any purchase with Proof of a Government ID starting Thursday, October 3."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.043745,
+          38.904823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Posto",
+        "Type": "Restaurant",
+        "Address": "1515 14th Street Northwest",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20005,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "POSTO will offer the following “Shutdown Specials” for the duration of the shutdown for ALL patrons seated in the bar area. You only need to spend a Lincoln ($5 for a glass of wine) and a Hamilton ($10 for 'B-S' Ravioli ) for a delicious dinner!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.031646,
+          38.910279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Menchie’s U St Frozen Yogurt",
+        "Type": "Restaurant",
+        "Address": "1939 12th St NW",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20009,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "will offer the following 'Shutdown Special' throughout the duration of the shutdown for Government Workers or Government Contractors who present a proper ID: 20% off any size portion of Menchie’s Frozen Yogurt, with as many toppings as you want!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.027856,
+          38.916654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "St. Arnold's Mussel Bar",
+        "Type": "Restaurant",
+        "Address": "3433 Connecticut Avenue Northwest",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20008,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "will have furlough specials for feds with IDs during lunch today. $5 Fat Tire. $3 Irish whiskey shots. Half price Belgian beer battered onion rings, too."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.058087,
+          38.93537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "St. Arnold's Mussel Bar",
+        "Type": "Wine",
+        "Address": "3519 Connecticut Avenue Northwest",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20008,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "will have furlough specials for feds with IDs during lunch today. $5 Fat Tire. $3 Irish whiskey shots. Half price Belgian beer battered onion rings, too."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.058353,
+          38.936333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "The Blaguard",
+        "Type": "Bar",
+        "Address": "2003 18th Street Northwest",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20009,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "If the government is closed... then as you know, we open early. Happy Hour starts at 3, All Drafts <$5."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.041449,
+          38.917283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Hill Country Barbecue",
+        "Type": "Restaurant",
+        "Address": "410 7th Street Northwest",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20004,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "is offering happy hour drink specials all day to anyone with a Government ID during the shutdown: $3 PBR, $5 Well Shots & Drinks, $5 Margaritas and $20 Margarita Pitchers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.022154,
+          38.895018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Granville Moore's",
+        "Type": "Restaurant",
+        "Address": "1238 H Street Northeast",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20002,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "is running a $1 Stella Shutdown special with $3 Under Pressure BBQ Pork Belly Bites. They open today at 2:00pm for late lunch and day drinking. Open to everyone - while supplies last."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.988921,
+          38.900429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Scion Restaurant",
+        "Type": "Restaurant",
+        "Address": "2100 P Street Northwest",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20037,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "will offer our full happy hour specials during lunch this week, or until the government shutdown has been resolved. Please note: Crios is only open for lunch Wednesday - Friday."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.046908,
+          38.909515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Crios Modern Mexican",
+        "Type": "Restaurant",
+        "Address": "2120 P Street Northwest",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20037,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "will offer our full happy hour specials during lunch this week, or until the government shutdown has been resolved. Please note: Crios is only open for lunch Wednesday - Friday."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.047305,
+          38.909481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Sonoma Restaurant and Wine Bar",
+        "Type": "Restaurant",
+        "Address": "223 Pennsylvania Avenue Southeast",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20003,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "will be offering $2 DC Brau pint specials and $4.00 for our bottle beers -- either our Avery brown or the IPA also by the bottle Rougue either the hazelnut brown or a pilsner. We will also offer 1/2 off any small plate. All while supplies last and all with govt ID."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.002646,
+          38.887018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Sapore Oil & Vinegar",
+        "Type": "Shop",
+        "Address": "660 Pennsylvania Avenue Southeast",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20003,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "on Capitol Hill is offering a 10% discount to all federal workers during shutdown. Members of Congress however will be charged 10% more!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.996448,
+          38.885116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Nando’s Peri-Peri",
+        "Type": "Restaurant",
+        "Address": "819 7th Street Northwest",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20001,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "is crying fowl over the government shutdown. In a special 'Boneless Chicken, Spineless Congress' promotion, it is offering a free butterflied Peri-Peri chicken breast to all 'non-essential' government employees affected by the shutdown. ... To participate in the promotion, government employees should visit the Nando’s Facebook page to redeem the offer. The offer is valid today only for federal government employees with a valid ID. Federal workers, enjoy your delicious, free Peri-Peri chicken at Nando’s! (Members of Congress need not apply.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.021703,
+          38.900443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Nando’s Peri-Peri",
+        "Type": "Restaurant",
+        "Address": "300 Tingey Street Southeast",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20374,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "is crying fowl over the government shutdown. In a special 'Boneless Chicken, Spineless Congress' promotion, it is offering a free butterflied Peri-Peri chicken breast to all 'non-essential' government employees affected by the shutdown. ... To participate in the promotion, government employees should visit the Nando’s Facebook page to redeem the offer. The offer is valid today only for federal government employees with a valid ID. Federal workers, enjoy your delicious, free Peri-Peri chicken at Nando’s! (Members of Congress need not apply.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.000894,
+          38.875156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Boundary Road",
+        "Type": "Restaurant",
+        "Address": "414 H Street Northeast",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20002,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "is crying fowl over the government shutdown. In a special 'Boneless Chicken, Spineless Congress' promotion, it is offering a free butterflied Peri-Peri chicken breast to all 'non-essential' government employees affected by the shutdown. ... To participate in the promotion, government employees should visit the Nando’s Facebook page to redeem the offer. The offer is valid today only for federal government employees with a valid ID. Federal workers, enjoy your delicious, free Peri-Peri chicken at Nando’s! (Members of Congress need not apply.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.999913,
+          38.900358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Flying Dog Brewery",
+        "Type": "Brewery",
+        "Address": "4607 Wedgewood Boulevard",
+        "City": "Frederick",
+        "State": "MD",
+        "ZIP": 21703,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "is crying fowl over the government shutdown. In a special 'Boneless Chicken, Spineless Congress' promotion, it is offering a free butterflied Peri-Peri chicken breast to all 'non-essential' government employees affected by the shutdown. ... To participate in the promotion, government employees should visit the Nando’s Facebook page to redeem the offer. The offer is valid today only for federal government employees with a valid ID. Federal workers, enjoy your delicious, free Peri-Peri chicken at Nando’s! (Members of Congress need not apply.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.426642,
+          39.363041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Kramerbooks & Afterwords",
+        "Type": "Bookstore & Cafe",
+        "Address": "1517 Connecticut Avenue Northwest",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20036,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "In recognition of the government shutdown, we are offering Happy Hour prices for all from opening to closing (in the bar only): $5 all beers, rail drinks; house wine. Members of Congress pay double"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.043853,
+          38.910919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Asia Nine",
+        "Type": "Restaurant",
+        "Address": "915 E Street Northwest",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20004,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "is offering all government workers a 10% discount on their check for the duration of the shutdown."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.024938,
+          38.896352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "P.J. Clarke's",
+        "Type": "Restaurant",
+        "Address": "1600 K Street Northwest",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20006,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "Show your government ID and with the purchase of any new Hamburger Deluxe, get a free Draft Beer. 1 per customer."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.036884,
+          38.902303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Jersey Mike's Subs",
+        "Type": "Restaurant",
+        "Address": "7732 Richmond Highway",
+        "City": "Alexandria",
+        "State": "DC",
+        "ZIP": 22306,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "Reminder, we are doing a shutdown special! $2 off any giant sub if you're a furloughed gov't employee and mention this tweet!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0837,
+          38.747992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "Glen's Garden Market",
+        "Type": "Grocery",
+        "Address": "2001 S Street Northwest",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20009,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "We wanted to reach out and let you know that we will be holding a Snark & Sarcasm #Shutdown2013 Party for all 'non-essential' government employees. Your first round is on us from 10am-12pm, all week. Drafts from our all-local taps are only $4 after that."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.045199,
+          38.914271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Venue": "1905 Bistro & Bar",
+        "Type": "Restaurant",
+        "Address": "1905 9th Street Northwest",
+        "City": "Washington",
+        "State": "DC",
+        "ZIP": 20001,
+        "Reference": "http://dcist.com/2013/09/government_shutdown_roundup.php",
+        "Offer": "is offering a new Shutdown Special - available to everyone while supplies last - during dinner hours starting at 5:00 p.m. Artisanal sausage and 3 sides plus a beer for $15."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.023779,
+          38.915945
+        ]
+      }
+    }
+  ]
+}
